@@ -4,6 +4,8 @@ Este repositorio contiene la solución al desafío técnico para el puesto de We
 
 **Enlace al sitio en vivo:** [https://orchid-starling-563131.hostingersite.com/]
 
+> **Nota Importante:** El sitio está alojado en un dominio temporal de Hostinger. Si el enlace no carga correctamente, por favor, intente acceder utilizando una VPN. Esto puede ser necesario debido a posibles restricciones regionales del proveedor de hosting.
+
 ---
 
 ## Sobre el Desarrollo
