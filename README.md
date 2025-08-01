@@ -6,6 +6,13 @@ Este repositorio contiene la solución al desafío técnico para el puesto de We
 
 ---
 
+## Sobre el Desarrollo
+
+El desafío se completó en un plazo de **2 días y medio** desde la recepción de las instrucciones, demostrando un enfoque ágil y un alto compromiso con el proyecto. El objetivo fue replicar el diseño con la mayor fidelidad posible, asegurando una experiencia de usuario óptima y una total adaptabilidad a dispositivos móviles.
+
+
+---
+
 ## Instrucciones para Instalación y Revisión
 
 Para facilitar la revisión y asegurar que el sitio se vea exactamente como en el diseño, he empaquetado el proyecto completo (WordPress, tema, plugins y contenido) en un solo archivo de migración.
