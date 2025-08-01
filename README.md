@@ -15,8 +15,8 @@ Para facilitar la revisión y asegurar que el sitio se vea exactamente como en e
 1.  Cree una instalación de WordPress nueva y en blanco en un entorno local o servidor.
 2.  Instale el plugin gratuito "All-in-One WP Migration".
 3.  En el menú del plugin, vaya a la sección de **`Importar`** y suba el archivo `.wpress` que he proporcionado.
-    * **Enlace de descarga del archivo de migración:** **[Aquí pegas el enlace de Google Drive/Dropbox al archivo .wpress]**
-4.  Siga las instrucciones en pantalla. Una vez finalizado, el sitio será una réplica exacta del demo en vivo. (Credenciales de acceso: usuario/contraseña si es necesario).
+    * **Enlace de descarga del archivo de migración:** **[https://drive.google.com/drive/folders/1YAgpoqgTsfM0dkz9eqf0n6KXqEeSpHro?usp=sharing]**
+4.  Siga las instrucciones en pantalla. Una vez finalizado, el sitio será una réplica exacta del demo en vivo. (Credenciales de acceso: Usuario: Team_Work/ Contraseña: 5iIDJ9)oG702sRKZ0Z*m!k9R).
 
 #### **Opción B (Revisión del código del tema):**
 
@@ -27,6 +27,6 @@ Para una revisión específica del código, el código fuente de mi tema persona
 ## Enfoque y Tecnologías Utilizadas
 
 * **CMS:** WordPress
-* **Tema Base:** [Ej: Kadence, Blocksy, etc.]
-* **Plugins Clave:** [Ej: Kadence Blocks, All-in-One WP Migration]
+* **Tema Base:** [Franco Gonzalez (VRUME)]
+* **Plugins Clave:** [Elementor, All-in-One Migration and Backup, Code Snippets, Contac Form 7, Kirki Customizer FremeWork, LiteSpeed Cache, Slider Revolution, TP Core, Use Any Font, WP Staging Pro.]
 * **Lenguajes:** PHP, HTML5, CSS3, JavaScript
